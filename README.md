@@ -1,5 +1,7 @@
 [![Personal Website](https://img.shields.io/badge/-Personal%20Website-gray?style=for-the-badge)](https://paulamidas.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulami-das-89666861/)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Paulami_Das/)
+
 
 - 👋 Hi, I’m @Paulamidas
 - 👀 I’m interested in deeplearning, machine learning and Natural Language Processing
