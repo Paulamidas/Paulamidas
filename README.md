@@ -2,6 +2,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulami-das-89666861/)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Paulami_Das/)
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=paulamidas&label=Profile%20views&color=0e75b6&style=flat" alt="paulamidas" /> </p>
+
+
 <h1 align="center">Hi 👋, I am Paulami Das</h1>
 <h3 align="center">Senior Software Engineer, Machine Learning at Samsung Semiconductor India Research</h3>
 
